@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @anthiatay
 - 👀 I’m interested in becoming a Software Engineer!
-- 🌱 I’m currently learning HTML and CSS (the basssics)
+- 🌱 I’m currently learning Javascripts Arrays!
 - 💞️ I’m looking to collaborate on small projects and websites
 - 📫 How to reach me via email or DM!
 - 😄 Pronouns: she/her
